@@ -21,11 +21,11 @@ https://youtu.be/xEX3r39b6Z8
 
 ## Novelty
 * Our system is different from Google Maps with respect to:
->	* _Anonymity_ of user data.
->	* Alerts while approaching accident prone areas & for approaching emergency vehicles.
->	* Historical view of traffic data for authorities.
->	* Targeted support for emergency vehicles.
-	
+  * _Anonymity_ of user data.
+	* Alerts while approaching accident prone areas & for approaching emergency vehicles.
+	* Historical view of traffic data for authorities.
+	* Targeted support for emergency vehicles.
+
 * As of now, there are NO apps that collect real-time traffic data from commuters and relay it directly to the authorities.
 
 * SOS as a feature is not integrated in any other pre-existing service.
