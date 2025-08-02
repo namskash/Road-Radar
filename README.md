@@ -26,9 +26,9 @@ Traffic congestion is a major problem in urban areas of India affecting the qual
 ## Novelty
 * Our system is different from Google Maps with respect to:
   * _Anonymity_ of user data.
-	* Alerts while approaching accident prone areas & for approaching emergency vehicles.
-	* Historical view of traffic data for authorities.
-	* Targeted support for emergency vehicles.
+  * Alerts while approaching accident prone areas & for approaching emergency vehicles.
+  * Historical view of traffic data for authorities.
+  * Targeted support for emergency vehicles.
 
 * As of now, there are NO apps that collect real-time traffic data from commuters and relay it directly to the authorities.
 
