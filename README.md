@@ -1,8 +1,12 @@
 # Smart City Solutions for Traffic Management
 Traffic congestion is a major problem in urban areas of India affecting the quality of life for the citizens. Traditional methods of traffic monitoring and management have imitations in terms of accuracy and scalability. There is a need for a more efficient and reliable system that can collect real-time traffic data and provide direct actionable insights to traffic authorities. In this paper, we propose to develop a cloud-based system consisting of a mobile application and a website, supported by a cloud-based server, that will collect real-time traffic data from collaborative users anonymously and use analytics to generate traffic density reports. The mobile application will be used to collect the real time data from the user. This data will be sent to the cloud server where it will be used for report generation. This report will be displayed to the authorities using a website, which would assist them in taking the right decisions.
 
-# Video Demo & Product(s) Walkthrough
-https://youtu.be/xEX3r39b6Z8
+## Video Demo & Product(s) Walkthrough
+> Watch on YouTube!
+
+[![Watch here!](./diagrams/YouTube-thumbnail.jpg)](https://youtu.be/xEX3r39b6Z8)
+
+---
 
 ## High Level Design Diagram
 <img src="./diagrams/High Level Design Diagram.png" />
@@ -63,5 +67,5 @@ https://youtu.be/xEX3r39b6Z8
 * Data analysis
 
 ## Low Level Design Diagrams:
-<img style="border-radius: 12px;" src="./diagrams/Low Level Design Diagram - App.png" />
-<img style="border-radius: 12px;" src="./diagrams/Low Level Design Diagram - Website.png" />
+<img src="./diagrams/Low Level Design Diagram - App.png" />
+<img src="./diagrams/Low Level Design Diagram - Website.png" />
