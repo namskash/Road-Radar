@@ -63,5 +63,5 @@ https://youtu.be/xEX3r39b6Z8
 * Data analysis
 
 ## Low Level Design Diagrams:
-<img src="./diagrams/Low Level Design Diagram - App.png" />
-<img src="./diagrams/Low Level Design Diagram - Website.png" />
+<img style="border-radius: 12px;" src="./diagrams/Low Level Design Diagram - App.png" />
+<img style="border-radius: 12px;" src="./diagrams/Low Level Design Diagram - Website.png" />
