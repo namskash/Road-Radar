@@ -20,17 +20,19 @@ This work was published as a [Scopus-indexed research paper in Springer](https:/
 
 <img src="./diagrams/Low Level Design Diagram - App.png" />
 <img src="./diagrams/Low Level Design Diagram - Website.png" />
-## Scope:
-1. __Citizen-driven Intelligent Traffic Monitoring:__
- Building a futuristic citizen-driven system where the users willingly share information about their travel on the road.
-2. __Collection & Analysis of Data:__
- Collection of data from mobile sensors – GPS position sensor (location), accelerometer (speed), G-sensor (crash detection), magnetism sensor (direction) and gyroscope (road inclination). This data will be used in analysis and representation of patterns for future traffic planning and management.
-3. __Accident Alert:__
- This involves finding patterns of accidents, identifying accident prone areas (from historical data), and alerting users when they approach an accident prone area.
-4. __Support for Reporting Accidents:__
- Added support to report accidents on the app, which will be sent to the respective authorities. The SOS feature will send the victim’s details (stored on the user’s device) to the concerned authorities, in case of a crash.
-5. __Emergency Vehicle Alert:__
- Added support for emergency vehicles, by sending an alert to the authorities, to better prepare them in handling the situation.
+
+## Scope
+
+1. **Citizen-driven Intelligent Traffic Monitoring:**
+   Building a futuristic citizen-driven system where the users willingly share information about their travel on the road.
+2. **Collection & Analysis of Data:**
+   Collection of data from mobile sensors – GPS position sensor (location), accelerometer (speed), G-sensor (crash detection), magnetism sensor (direction) and gyroscope (road inclination). This data will be used in analysis and representation of patterns for future traffic planning and management.
+3. **Accident Alert:**
+   This involves finding patterns of accidents, identifying accident prone areas (from historical data), and alerting users when they approach an accident prone area.
+4. **Support for Reporting Accidents:**
+   Added support to report accidents on the app, which will be sent to the respective authorities. The SOS feature will send the victim’s details (stored on the user’s device) to the concerned authorities, in case of a crash.
+5. **Emergency Vehicle Alert:**
+   Added support for emergency vehicles, by sending an alert to the authorities, to better prepare them in handling the situation.
 
 ## Novelty
 
